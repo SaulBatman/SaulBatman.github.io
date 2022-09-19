@@ -41,7 +41,7 @@ slides:
 - [PDF Export](https://revealjs.com/pdf-export/)
 
 ---
-
+<!-- 
 ## Code Highlighting
 
 Inline code: `variable`
@@ -52,7 +52,7 @@ Code block:
 porridge = "blueberry"
 if porridge == "blueberry":
     print("Eating...")
-```
+``` -->
 
 ---
 
