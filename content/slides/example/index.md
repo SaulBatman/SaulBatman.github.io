@@ -71,13 +71,13 @@ $$
 ## Fragments
 
 Make content appear incrementally
-
+{% raw %}
 ```
 {{%/* fragment */%}} One {{%/* /fragment */%}}
 {{%/* fragment */%}} **Two** {{%/* /fragment */%}}
 {{%/* fragment */%}} Three {{%/* /fragment */%}}
 ```
-
+{% endraw %}
 Press `Space` to play!
 
 {{% fragment %}} One {{% /fragment %}}
@@ -96,7 +96,7 @@ A fragment can accept two optional parameters:
 ## Speaker Notes
 
 Add speaker notes to your presentation
-
+{% raw %}
 ```markdown
 {{%/* speaker_note */%}}
 
@@ -104,7 +104,7 @@ Add speaker notes to your presentation
 - Press `S` key to view
   {{%/* /speaker_note */%}}
 ```
-
+{% endraw %}
 Press the `S` key to view the speaker notes!
 
 {{< speaker_note >}}
@@ -137,13 +137,13 @@ Press the `S` key to view the speaker notes!
 ## Custom Slide
 
 Customize the slide style and background
-
+{% raw %}
 ```markdown
 {{</* slide background-image="/media/boards.jpg" */>}}
 {{</* slide background-color="#0000FF" */>}}
 {{</* slide class="my-style" */>}}
 ```
-
+{% endraw %}
 ---
 
 ## Custom CSS Example
@@ -151,7 +151,7 @@ Customize the slide style and background
 Let's make headers navy colored.
 
 Create `assets/css/reveal_custom.css` with:
-
+{% raw %}
 ```css
 .reveal section h1,
 .reveal section h2,
@@ -159,7 +159,7 @@ Create `assets/css/reveal_custom.css` with:
   color: navy;
 }
 ```
-
+{% endraw %}
 ---
 
 # Questions?
