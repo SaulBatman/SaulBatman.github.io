@@ -1,15 +1,16 @@
 ---
-title: Example Project
-summary: An example of using the in-built project page.
+title: "SEIL: Simulation-augmented Equivariant Imitation Learning"
+summary: Submitted to ICRA 2023
 tags:
   - Deep Learning
-date: '2016-04-27T00:00:00Z'
+  - Robotics
+date: '2022-08-27T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''
 
 image:
-  caption: Photo by rawpixel on Unsplash
+  caption: 
   focal_point: Smart
 
 links:

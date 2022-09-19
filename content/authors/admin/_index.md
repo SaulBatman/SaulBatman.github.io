@@ -25,11 +25,11 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: MS in Artificial Intelligence
-      institution: Northeastern University
+    - course: MS in Robotics, Computer science
+      institution: Northeastern University, Boston, US
       year: 2021-2023
     - course: BSc in Mechanical Engineering
-      institution: Beijing University of Chemical Technology
+      institution: Beijing University of Chemical Technology, Beijing, China
       year: 2016-2020
 
 # Social/Academic Networking
