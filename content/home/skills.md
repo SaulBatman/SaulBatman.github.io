@@ -9,25 +9,25 @@ headless: true
 # Order that this section appears on the page.
 weight: 30
 
-title: Research interest
+title: Research & Life focus
 subtitle:
 
 # Showcase personal skills or business features.
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-  - description: 90%
-    icon: r-project
-    icon_pack: fab
-    name: R
-  - description: 100%
-    icon: chart-line
-    icon_pack: fas
-    name: Statistics
-  - description: 10%
-    icon: camera-retro
-    icon_pack: fas
-    name: Photography
+  - description: I work for robots. Robots help people.
+    icon: ":robot:"
+    icon_pack: "emoji"
+    name: Robotics
+  - description: Nadal is GOAT.
+    icon: ":tennis:"
+    icon_pack: "emoji"
+    name: Tennis
+  - description: I talk a lot sometimes.
+    icon: ":studio_microphone:"
+    icon_pack: "emoji"
+    name: Podcast
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
 #  icon_pack: "emoji"
