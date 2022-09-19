@@ -41,19 +41,19 @@ slides:
 - [PDF Export](https://revealjs.com/pdf-export/)
 
 ---
-<!-- 
+
 ## Code Highlighting
 
 Inline code: `variable`
 
 Code block:
-
+{% raw %}
 ```python
 porridge = "blueberry"
 if porridge == "blueberry":
     print("Eating...")
-``` -->
-
+```
+{% endraw %}
 ---
 
 ## Math
@@ -167,3 +167,4 @@ Create `assets/css/reveal_custom.css` with:
 [Ask](https://discord.gg/z8wNYzb)
 
 [Documentation](https://wowchemy.com/docs/content/slides/)
+
