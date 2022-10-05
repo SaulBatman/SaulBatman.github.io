@@ -14,29 +14,50 @@ image:
   focal_point: Smart
 
 links:
-  - icon: twitter
-    icon_pack: fab
-    name: Follow
-    url: https://twitter.com/georgecushen
-url_code: ''
+url_code: 'https://github.com/SaulBatman/equi_close_loop/tree/fcn_bc'
 url_pdf: ''
 url_slides: ''
-url_video: ''
+url_video: 'https://youtu.be/UHUmq-cOMh4'
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: example
+# slides: example
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+# Abstract
+In robotic manipulation, acquiring samples is extremely expensive because it often requires interacting with the real world.  Traditional image-level data augmentation has shown the potential to improve sample efficiency in various machine learning tasks. However, image-level data augmentation is insufficient for an imitation learning agent to learn good manipulation policies in a reasonable amount of demonstrations. We propose Simulation-augmented Equivariant Imitation Learning (SEIL), a method that combines a novel data augmentation strategy of supplementing expert trajectories with simulated transitions and an equivariant model that exploits the $\mathbf{O}(2)$ symmetry in robotic manipulation. Experimental evaluations demonstrate that our method can learn non-trivial manipulation tasks within ten demonstrations and outperforms the baselines with a significant margin.
 
-Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.
+# Approach
+## 1. Equivariant Behavioral Cloning
+  <img src="./img/equivariant.gif" alt="drawing" width="900"/>
 
-Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.
+## 2. Transition Simulation
+  <img src="./img/TS.gif" alt="drawing" width="900"/>
 
-Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.
+# Results
+* Simulation results
+  
+  <!-- ![Sim Results](./img/sim_result.png) -->
+  <img src="./img/sim_result.png" alt="drawing" width="900"/>
+* Real-world results
+ 
+  <img src="./img/real_result.png" alt="drawing" width="1000"/>
+# Experiments
+## Real-world tasks
+* Block in Bowl
+  <img src="./img/bowl.gif" alt="drawing" width="1000"/>
+* Trash Tidying
+  <img src="./img/trash3.gif" alt="drawing" width="1000"/>
+* Shoe Packing
+  <img src="./img/shoe.gif" alt="drawing" width="1000"/>
+* Drawer Opening
+  <img src="./img/drawer.gif" alt="drawing" width="1000"/>
 
-Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.
+## Interactive close-loop bahevior
+* Interactive Drawers
+  <img src="./img/Drawer_interactive.gif" alt="drawing" width="1000"/>
+* Interactive "Trash Tidying"
+  <img src="./img/Trash3_interactive.gif" alt="drawing" width="1000"/>
