@@ -42,18 +42,19 @@ tags: []
 featured: true
 
 # Custom links (uncomment lines below)
-# links:
-# - name: Custom Link
-#   url: http://example.org
-
-url_pdf: ''
+links:
+- name: Website
+  url: https://pointw.github.io/equi_robot_page/
+- name: Open Review
+  url: https://openreview.net/forum?id=K8W6ObPZQyh
+url_pdf: 'https://arxiv.org/pdf/2203.04923.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''
 url_source: ''
-url_video: ''
+url_video: 'https://www.youtube.com/watch?v=HDYoOXMojkY'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -75,7 +76,7 @@ projects:
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: example
+# slides: example
 ---
 
 <!-- {{% callout note %}}

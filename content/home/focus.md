@@ -20,7 +20,7 @@ feature:
     icon: ":robot:"
     icon_pack: "emoji"
     name: Robotics
-  - description: Nadal is GOAT.
+  - description: Nadal is the GOAT.
     icon: ":tennis:"
     icon_pack: "emoji"
     name: Tennis
