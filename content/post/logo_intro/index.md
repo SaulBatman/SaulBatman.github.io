@@ -40,4 +40,4 @@ categories:
 
 ## Who am I?
   <!-- <img src="./featured.png" alt="drawing" width="500"/> -->
-Hi! I am Octo! I am the mascot for Mingxi's website. 
+Hi! I am Octo! I am the mascot for Mingxi's website. My life story will be coming soon!

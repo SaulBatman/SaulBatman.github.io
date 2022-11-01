@@ -9,10 +9,10 @@ address:
   street: Huntington Ave.
   city: Boston
   region: MA
-  postcode: '94305'
+  postcode: '02116'
   country: United States
 
-summary: An example talk using Wowchemy's Markdown slides feature.
+summary: 'Welcome to our Podcast! 马尔科夫链欢迎你！'
 abstract: 'Welcome to our Podcast! 马尔科夫链欢迎你！'
 
 # Talk start and end times.
@@ -72,4 +72,4 @@ Slides can be added in a few ways:
 
 Further event details, including [page elements](https://wowchemy.com/docs/writing-markdown-latex/) such as image galleries, can be added to the body of this page. -->
 
-Visit our [podcast!](https://www.xiaoyuzhoufm.com/podcast/62a4ebe6525536dd029366f3?s=eyJ1IjogIjYwMmY0N2I2ZTBmNWU3MjNiYmM3NmQ2ZSJ9)
+This is a co-project with [Chenghao Wang](https://wangchengh3ce3.myportfolio.com/work). This episode is about the eperience of getting COVID-19 and some suggestions for everyone. Visit our [podcast!](https://www.xiaoyuzhoufm.com/podcast/62a4ebe6525536dd029366f3?s=eyJ1IjogIjYwMmY0N2I2ZTBmNWU3MjNiYmM3NmQ2ZSJ9)

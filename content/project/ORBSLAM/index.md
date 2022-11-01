@@ -1,6 +1,6 @@
 ---
 title: ORBSLAM3 on iPhone
-summary: Wanna try ORBSLAM3 with your iPhone as camera?
+summary: Wanna try ORBSLAM3 with your iPhone? Try this!
 tags:
   - Mobility
   - Robotics
