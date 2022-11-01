@@ -109,11 +109,22 @@ Click the &lt;em>Cite&lt;/em> button above to demo the feature to enable visitor
 Create your slides in Markdown - click the &lt;em>Slides&lt;/em> button to check out the example.
 &lt;/div>
 &lt;/div>
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --></description></item><item><title>ORBSLAM3 on iPhone</title><link>https://saulbatman.github.io/project/orbslam/</link><pubDate>Wed, 27 Apr 2022 00:00:00 +0000</pubDate><guid>https://saulbatman.github.io/project/orbslam/</guid><description>&lt;p>In order to run our method, you should install ORBSLAM3 and Droidcam on your UBUNTU PC. And, you should install droidcam in your iPhone, which you can find in App store.
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --></description></item><item><title>Hindsight Experience Replay in Robotics Manipulation</title><link>https://saulbatman.github.io/project/her/</link><pubDate>Wed, 27 Apr 2022 00:00:00 +0000</pubDate><guid>https://saulbatman.github.io/project/her/</guid><description>&lt;p>In goal-conditioned reinforcement learning
+problems, the sample efficiency is often a drawback that
+most of the explorations are not consider as very useful
+experience because they are failure episodes, which makes
+low sample efficiency. In this paper, we implemented a
+module of Hindsight Experience Replay (HER) in several
+goal-conditioned environments, to discover its utility of
+improving sample efficiency. Based on Deep Deterministic
+Policy Gradient (DDPG), the experiments showed that the
+HER module helps the agent learn much faster with more
+robustness. We then discussed about the limitation of HER
+and how hyper parameters effects its performance.&lt;/p></description></item><item><title>ORBSLAM3 on iPhone</title><link>https://saulbatman.github.io/project/orbslam/</link><pubDate>Wed, 27 Apr 2022 00:00:00 +0000</pubDate><guid>https://saulbatman.github.io/project/orbslam/</guid><description>&lt;p>In order to run our method, you should install ORBSLAM3 and Droidcam on your UBUNTU PC. And, you should install droidcam in your iPhone, which you can find in App store.
 ORBSLAM3 and droidcam repositories have already been forked into our github repo. Please refer to the installation links mentioned above to download these necessary components. It is highly recommended to check the official github repo. We also get a modified version monoVO-Python here as our baseline, where we also add out kitti toolkits.
 Our project is ORBSLAM3 on iPhone. The motivation is that SLAM often requires cameras like realsense, which is hard to get in daily life. So, why not use the camera in our iPhone? By using iPhone, many interesting applications can be furtherly extended, such as augmented reality, indoor localization, etc.
 For now, the ORBSLAM algorithm runs on PC and the video sequence is transmitting from iPhone to PC via droidcam.&lt;/p>
-&lt;p>Please refer to our &lt;a href="https://gitlab.com/saulbatman/eece5554/-/tree/main/FinalProject" target="_blank" rel="noopener">project website&lt;/a>!&lt;/p></description></item><item><title>Silhouette-based Object 3D reconstruction</title><link>https://saulbatman.github.io/project/turbinenet/</link><pubDate>Tue, 27 Apr 2021 00:00:00 +0000</pubDate><guid>https://saulbatman.github.io/project/turbinenet/</guid><description>&lt;h1 id="mesh-simplification">Mesh Simplification&lt;/h1>
+&lt;p>Please refer to our &lt;a href="https://gitlab.com/saulbatman/eece5554/-/tree/main/FinalProject" target="_blank" rel="noopener">project website&lt;/a>! We also have a &lt;a href="https://github.com/SaulBatman/monoVO-python" target="_blank" rel="noopener">toolbox&lt;/a>&lt;/p></description></item><item><title>Silhouette-based Object 3D reconstruction</title><link>https://saulbatman.github.io/project/turbinenet/</link><pubDate>Tue, 27 Apr 2021 00:00:00 +0000</pubDate><guid>https://saulbatman.github.io/project/turbinenet/</guid><description>&lt;h1 id="mesh-simplification">Mesh Simplification&lt;/h1>
 &lt;!-- &lt;img src="./img/sim.jpg" alt="drawing" width="1000"/> -->
 &lt;p>3D object meshes often contains millions of redundant vertices and faces. This tool is based on &lt;a href="http://mgarland.org/files/papers/quadrics.pdf" target="_blank" rel="noopener">&amp;ldquo;Surface Simplification Using Quadric Error Metrics&amp;rdquo;&lt;/a> , and it can help you to reduce points in your mesh model. Codes can be found &lt;a href="https://github.com/SaulBatman/Mesh_Simplify" target="_blank" rel="noopener">here&lt;/a>&lt;/p>
 &lt;h1 id="maya-3d-mesh-modeling">MAYA 3D mesh modeling&lt;/h1>

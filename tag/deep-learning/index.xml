@@ -35,7 +35,18 @@
 &lt;img src="./img/Drawer_interactive.gif" alt="drawing" width="1000"/>&lt;/li>
 &lt;li>Interactive &amp;ldquo;Trash Tidying&amp;rdquo;
 &lt;img src="./img/Trash3_interactive.gif" alt="drawing" width="1000"/>&lt;/li>
-&lt;/ul></description></item><item><title>Silhouette-based Object 3D reconstruction</title><link>https://saulbatman.github.io/project/turbinenet/</link><pubDate>Tue, 27 Apr 2021 00:00:00 +0000</pubDate><guid>https://saulbatman.github.io/project/turbinenet/</guid><description>&lt;h1 id="mesh-simplification">Mesh Simplification&lt;/h1>
+&lt;/ul></description></item><item><title>Hindsight Experience Replay in Robotics Manipulation</title><link>https://saulbatman.github.io/project/her/</link><pubDate>Wed, 27 Apr 2022 00:00:00 +0000</pubDate><guid>https://saulbatman.github.io/project/her/</guid><description>&lt;p>In goal-conditioned reinforcement learning
+problems, the sample efficiency is often a drawback that
+most of the explorations are not consider as very useful
+experience because they are failure episodes, which makes
+low sample efficiency. In this paper, we implemented a
+module of Hindsight Experience Replay (HER) in several
+goal-conditioned environments, to discover its utility of
+improving sample efficiency. Based on Deep Deterministic
+Policy Gradient (DDPG), the experiments showed that the
+HER module helps the agent learn much faster with more
+robustness. We then discussed about the limitation of HER
+and how hyper parameters effects its performance.&lt;/p></description></item><item><title>Silhouette-based Object 3D reconstruction</title><link>https://saulbatman.github.io/project/turbinenet/</link><pubDate>Tue, 27 Apr 2021 00:00:00 +0000</pubDate><guid>https://saulbatman.github.io/project/turbinenet/</guid><description>&lt;h1 id="mesh-simplification">Mesh Simplification&lt;/h1>
 &lt;!-- &lt;img src="./img/sim.jpg" alt="drawing" width="1000"/> -->
 &lt;p>3D object meshes often contains millions of redundant vertices and faces. This tool is based on &lt;a href="http://mgarland.org/files/papers/quadrics.pdf" target="_blank" rel="noopener">&amp;ldquo;Surface Simplification Using Quadric Error Metrics&amp;rdquo;&lt;/a> , and it can help you to reduce points in your mesh model. Codes can be found &lt;a href="https://github.com/SaulBatman/Mesh_Simplify" target="_blank" rel="noopener">here&lt;/a>&lt;/p>
 &lt;h1 id="maya-3d-mesh-modeling">MAYA 3D mesh modeling&lt;/h1>
