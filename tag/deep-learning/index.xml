@@ -35,4 +35,12 @@
 &lt;img src="./img/Drawer_interactive.gif" alt="drawing" width="1000"/>&lt;/li>
 &lt;li>Interactive &amp;ldquo;Trash Tidying&amp;rdquo;
 &lt;img src="./img/Trash3_interactive.gif" alt="drawing" width="1000"/>&lt;/li>
+&lt;/ul></description></item><item><title>Silhouette-based Object 3D reconstruction</title><link>https://saulbatman.github.io/project/turbinenet/</link><pubDate>Tue, 27 Apr 2021 00:00:00 +0000</pubDate><guid>https://saulbatman.github.io/project/turbinenet/</guid><description>&lt;h1 id="mesh-simplification">Mesh Simplification&lt;/h1>
+&lt;!-- &lt;img src="./img/sim.jpg" alt="drawing" width="1000"/> -->
+&lt;p>3D object meshes often contains millions of redundant vertices and faces. This tool is based on &lt;a href="http://mgarland.org/files/papers/quadrics.pdf" target="_blank" rel="noopener">&amp;ldquo;Surface Simplification Using Quadric Error Metrics&amp;rdquo;&lt;/a> , and it can help you to reduce points in your mesh model. Codes can be found &lt;a href="https://github.com/SaulBatman/Mesh_Simplify" target="_blank" rel="noopener">here&lt;/a>&lt;/p>
+&lt;h1 id="maya-3d-mesh-modeling">MAYA 3D mesh modeling&lt;/h1>
+&lt;p>The toolbos is based on Autodesk MAYA and Python, including tools such as skeleton manipulation, automatic disturbance, and batch outputting. Please refer to &lt;a href="https://github.com/SaulBatman/PCA-MAYA-tools" target="_blank" rel="noopener">this repository&lt;/a>.&lt;/p>
+&lt;h1 id="turbinenet">TurbineNet&lt;/h1>
+&lt;ul>
+&lt;li>Coming soon!&lt;/li>
 &lt;/ul></description></item></channel></rss>
