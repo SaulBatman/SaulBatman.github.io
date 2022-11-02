@@ -47,7 +47,7 @@ featured: true
 #   url: http://example.org
 links:
 - name: Paper
-  url: http://arxiv.org
+  url: https://www.youtube.com/watch?v=UHUmq-cOMh4
 - name: Code coming soon!
   url: http://github.com
 url_pdf: ''
