@@ -46,18 +46,16 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 links:
-- name: Paper
-  url: https://www.youtube.com/watch?v=UHUmq-cOMh4
 - name: Code coming soon!
   url: http://github.com
-url_pdf: ''
+url_pdf: 'https://arxiv.org/pdf/2211.00194'
 url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: 'https://saulbatman.github.io/project/seil/'
 url_slides: ''
 url_source: ''
-url_video: ''
+url_video: 'https://www.youtube.com/watch?v=UHUmq-cOMh4'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -72,7 +70,7 @@ image:
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects:
-  - 'content/project/SEIL/index.md'
+  - 'SEIL'
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
