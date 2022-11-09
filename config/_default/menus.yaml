@@ -7,18 +7,19 @@ main:
   - name: Home
     url: '#about'
     weight: 10
-  - name: Posts
-    url: '#posts'
+  - name: Publications
+    url: './publication'
     weight: 20
   - name: Projects
     url: './project'
     weight: 30
+  - name: Posts
+    url: './post'
+    weight: 40
   - name: Life
     url: './event'
-    weight: 40
-  - name: Publications
-    url: './publication'
     weight: 50
+
   - name: CV
     url: "uploads/Resume_20220927.pdf"
-    weight: 70
+    weight: 60

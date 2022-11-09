@@ -67,7 +67,8 @@ email: ''
 highlight_name: true
 ---
 ## Who am I
-My name is Mingxi Jia. I am a M.S. in Robotics student at Northeastern University, Boston. Before Northeastern, I was a research assistant at BNU-HKBU United International College, working on learning-based object 3D reconstruction, visual-aided robot arm, etc. And, I received my Bachelor of Engineering (in Mechanical Engineering) degree at Beijing University of Chemical Technology. **I am currently looking for a Ph.D. position in robotics. Please feel free to contact me via my email (jia dot ming at northeastern dot edu)!**
+My name is Mingxi Jia, a M.S. in Robotics student at Northeastern University, Boston. I am now a research assistant in the [Helping Hands Lab](https://www2.ccs.neu.edu/research/helpinghands/) at Northeastern University, advised by Prof. Robert Platt. Before Northeastern, I received my Bachelor of Engineering (in Mechanical Engineering) degree at Beijing University of Chemical Technology. **I am currently looking for a Ph.D. position in robotics. Please feel free to contact me via my email (jia dot ming at northeastern dot edu)!**
 
-## Why I love robotics?
-In one sentence, I LOVE IRON MAN! The robot arm, controlled by Stark’s voice through an intelligent agent Jarvis, collaborates naturally with Tony in engineering and domestic tasks. It exacly describes my vision of robotics.
+<!-- I was a research assistant at BNU-HKBU United International College, working on learning-based object 3D reconstruction, visual-aided robot arm, etc. -->
+<!-- ## Why I love robotics?
+In one sentence, I LOVE IRON MAN! The robot arm, controlled by Stark’s voice through an intelligent agent Jarvis, collaborates naturally with Tony in engineering and domestic tasks. It exacly describes my vision of robotics. -->
