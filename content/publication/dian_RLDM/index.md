@@ -29,7 +29,7 @@ publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
 publication: In *The 5th Multidisciplinary Conference on Reinforcement Learning and Decision Making*
-publication_short: In *RLDM 2022, ICRA 2022 Workshop*
+publication_short: In *RLDM 2022, ICRA 2022 Workshop on Scaling Robot Learning*
 
 abstract: This work proposes equivariant methods for making reinforcement learning in SE(2) space more sample efficient.
 
