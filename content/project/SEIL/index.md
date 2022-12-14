@@ -14,10 +14,17 @@ image:
   focal_point: Smart
 
 links:
-url_code: 'https://github.com/SaulBatman/equi_close_loop/tree/fcn_bc'
-url_pdf: 'https://arxiv.org/pdf/2211.00194'
+- name: Paper
+  url: 'https://arxiv.org/pdf/2211.00194'
+- name: Code coming soon!
+  url: http://github.com
+url_pdf: 
+url_code: ''
+url_dataset: ''
+url_poster: ''
 url_slides: ''
-url_video: 'https://youtu.be/UHUmq-cOMh4'
+url_source: ''
+url_video: 'https://www.youtube.com/watch?v=UHUmq-cOMh4'
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
