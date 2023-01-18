@@ -1,10 +1,10 @@
 ---
 title: "SEIL: Simulation-augmented Equivariant Imitation Learning"
-summary: Submitted to ICRA 2023
+summary: ICRA 2023
 tags:
   - Deep Learning
   - Robotics
-date: '2022-08-27T00:00:00Z'
+date: '2022-08-18T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''
