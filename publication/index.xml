@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Publications | Mingxi Jia</title><link>https://saulbatman.github.io/publication/</link><atom:link href="https://saulbatman.github.io/publication/index.xml" rel="self" type="application/rss+xml"/><description>Publications</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 16 Jan 2023 00:00:00 +0000</lastBuildDate><image><url>https://saulbatman.github.io/media/icon_hu4c220a5ca0b827d3eca32f82a9dace98_1895126_512x512_fill_lanczos_center_3.png</url><title>Publications</title><link>https://saulbatman.github.io/publication/</link></image><item><title>SEIL: Simulation-augmented Equivariant Imitation Learning</title><link>https://saulbatman.github.io/publication/mingxi_seil/</link><pubDate>Mon, 16 Jan 2023 00:00:00 +0000</pubDate><guid>https://saulbatman.github.io/publication/mingxi_seil/</guid><description>&lt;meta http-equiv = "refresh" content = " 0.01 ; url = /project/seil/"/>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Publications | Mingxi Jia</title><link>https://saulbatman.github.io/publication/</link><atom:link href="https://saulbatman.github.io/publication/index.xml" rel="self" type="application/rss+xml"/><description>Publications</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 16 Jan 2023 00:00:00 +0000</lastBuildDate><image><url>https://saulbatman.github.io/media/icon_hu4c220a5ca0b827d3eca32f82a9dace98_1895126_512x512_fill_lanczos_center_3.png</url><title>Publications</title><link>https://saulbatman.github.io/publication/</link></image><item><title>SEIL: Simulation-augmented Equivariant Imitation Learning</title><link>https://saulbatman.github.io/publication/mingxi_seil/</link><pubDate>Mon, 16 Jan 2023 00:00:00 +0000</pubDate><guid>https://saulbatman.github.io/publication/mingxi_seil/</guid><description>&lt;meta http-equiv = "refresh" content = " 0.01 ; url = https://saulbatman.github.io/project/seil/"/>
 &lt;!-- &lt;div class="alert alert-note">
 &lt;div>
 Click the &lt;em>Cite&lt;/em> button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -10,47 +10,12 @@ Create your slides in Markdown - click the &lt;em>Slides&lt;/em> button to check
 &lt;/div>
 &lt;/div>
 -->
-&lt;p>Supplementary notes can be added here, including &lt;a href="https://wowchemy.com/docs/writing-markdown-latex/" target="_blank" rel="noopener">code, math, and images&lt;/a>. &amp;ndash;&amp;gt;&lt;/p>
 &lt;h1 id="authors">Authors&lt;/h1>
 &lt;p>Mingxi Jia, Dian Wang, Guanang Su, David Klee, Xupeng Zhu, Robin Walters, Robert Platt&lt;/p>
 &lt;h1 id="abstract">Abstract&lt;/h1>
 &lt;p>In robotic manipulation, acquiring samples is extremely expensive because it often requires interacting with the real world. Traditional image-level data augmentation has shown the potential to improve sample efficiency in various machine learning tasks. However, image-level data augmentation is insufficient for an imitation learning agent to learn good manipulation policies in a reasonable amount of demonstrations. We propose Simulation-augmented Equivariant Imitation Learning (SEIL), a method that combines a novel data augmentation strategy of supplementing expert trajectories with simulated transitions and an equivariant model that exploits the $\mathbf{O}(2)$ symmetry in robotic manipulation. Experimental evaluations demonstrate that our method can learn non-trivial manipulation tasks within ten demonstrations and outperforms the baselines with a significant margin.&lt;/p>
 &lt;h1 id="approach">Approach&lt;/h1>
-&lt;h2 id="1-equivariant-behavioral-cloning">1. Equivariant Behavioral Cloning&lt;/h2>
-&lt;img src="./img/equivariant.gif" alt="drawing" width="900"/>
-&lt;h2 id="2-transition-simulation">2. Transition Simulation&lt;/h2>
-&lt;img src="./img/TS.gif" alt="drawing" width="900"/>
-&lt;h1 id="results">Results&lt;/h1>
-&lt;ul>
-&lt;li>
-&lt;p>Simulation results&lt;/p>
-&lt;!-- ![Sim Results](./img/sim_result.png) -->
-&lt;img src="./img/sim_result.png" alt="drawing" width="900"/>
-&lt;/li>
-&lt;li>
-&lt;p>Real-world results&lt;/p>
-&lt;img src="./img/real_result.png" alt="drawing" width="1000"/>
-&lt;/li>
-&lt;/ul>
-&lt;h1 id="experiments">Experiments&lt;/h1>
-&lt;h2 id="real-world-tasks">Real-world tasks&lt;/h2>
-&lt;ul>
-&lt;li>Block in Bowl
-&lt;img src="./img/bowl.gif" alt="drawing" width="1000"/>&lt;/li>
-&lt;li>Trash Tidying
-&lt;img src="./img/trash3.gif" alt="drawing" width="1000"/>&lt;/li>
-&lt;li>Shoe Packing
-&lt;img src="./img/shoe.gif" alt="drawing" width="1000"/>&lt;/li>
-&lt;li>Drawer Opening
-&lt;img src="./img/drawer.gif" alt="drawing" width="1000"/>&lt;/li>
-&lt;/ul>
-&lt;h2 id="interactive-close-loop-bahevior">Interactive close-loop bahevior&lt;/h2>
-&lt;ul>
-&lt;li>Interactive Drawers
-&lt;img src="./img/Drawer_interactive.gif" alt="drawing" width="1000"/>&lt;/li>
-&lt;li>Interactive &amp;ldquo;Trash Tidying&amp;rdquo;
-&lt;img src="./img/Trash3_interactive.gif" alt="drawing" width="1000"/>&lt;/li>
-&lt;/ul>
+&lt;p>Please refer to the &lt;a href="https://saulbatman.github.io/project/seil/" target="_blank" rel="noopener">project page&lt;/a> for more details!&lt;/p>
 &lt;h1 id="citation">Citation&lt;/h1>
 &lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-fallback" data-lang="fallback">&lt;span class="line">&lt;span class="cl">@article{jia2022seil,
 &lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> title={SEIL: Simulation-augmented Equivariant Imitation Learning},
