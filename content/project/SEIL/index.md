@@ -65,7 +65,7 @@ In robotic manipulation, acquiring samples is extremely expensive because it oft
 * Drawer Opening
   <img src="./img/drawer.gif" alt="drawing" width="1000"/>
 
-## Interactive close-loop bahevior
+## Interactive close-loop behavior
 * Interactive Drawers
   <img src="./img/Drawer_interactive.gif" alt="drawing" width="1000"/>
 * Interactive "Trash Tidying"
