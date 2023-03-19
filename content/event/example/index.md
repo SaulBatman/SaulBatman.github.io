@@ -72,4 +72,4 @@ Slides can be added in a few ways:
 
 Further event details, including [page elements](https://wowchemy.com/docs/writing-markdown-latex/) such as image galleries, can be added to the body of this page. -->
 
-This is a co-project with [Chenghao Wang](https://wangchengh3ce3.myportfolio.com/work). This episode is about the eperience of getting COVID-19 and some suggestions for everyone. Visit our [podcast!](https://www.xiaoyuzhoufm.com/podcast/62a4ebe6525536dd029366f3?s=eyJ1IjogIjYwMmY0N2I2ZTBmNWU3MjNiYmM3NmQ2ZSJ9)
+This is a co-project with [Chenghao Wang](https://wangchengh3ce3.myportfolio.com/work). This episode is about the experience of getting COVID-19 and some suggestions for everyone. Visit our [podcast!](https://www.xiaoyuzhoufm.com/podcast/62a4ebe6525536dd029366f3?s=eyJ1IjogIjYwMmY0N2I2ZTBmNWU3MjNiYmM3NmQ2ZSJ9)

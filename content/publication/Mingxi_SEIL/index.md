@@ -7,6 +7,8 @@ title: 'SEIL: Simulation-augmented Equivariant Imitation Learning'
 authors:
   - Mingxi Jia*
   - Dian Wang*
+  - Guanang Su
+  - David Klee
   - Xupeng Zhu
   - Robin Walters
   - Robert Platt
