@@ -67,7 +67,7 @@ email: ''
 highlight_name: true
 ---
 ## Who am I
-My name is Mingxi Jia, a M.S. in Robotics student at Northeastern University, Boston. I am now a research assistant in the [Helping Hands Lab](https://www2.ccs.neu.edu/research/helpinghands/) at Northeastern University, advised by Prof. Robert Platt. Before Northeastern, I received my Bachelor of Engineering (in Mechanical Engineering) degree at Beijing University of Chemical Technology. **I am currently looking for a Ph.D. position in robotics. Please feel free to contact me via my email (jia dot ming at northeastern dot edu)!**
+My name is Mingxi Jia, a M.S. in Robotics student at Northeastern University, Boston. I am now a research assistant in the [Helping Hands Lab](https://www2.ccs.neu.edu/research/helpinghands/), advised by Prof. Robert Platt. Before Northeastern, I am fortune to work with Prof. Amy Zhang at BNU-HKBU UIC and Prof. Qing Guo at BUCT. **I will be joing [Humans To Robots Laboratory](https://h2r.cs.brown.edu/), advised by Prof. Stefanie Tellex in Fall, 2023!**
 
 <!-- I was a research assistant at BNU-HKBU United International College, working on learning-based object 3D reconstruction, visual-aided robot arm, etc. -->
 <!-- ## Why I love robotics?
