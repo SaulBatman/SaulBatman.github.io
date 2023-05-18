@@ -16,15 +16,15 @@ image:
 links:
 - name: Paper
   url: 'https://arxiv.org/pdf/2211.00194'
-- name: Code coming soon!
-  url: http://github.com
+- name: Code available!
+  url: https://github.com/SaulBatman/SEIL
 url_pdf: 
 url_code: ''
 url_dataset: ''
 url_poster: ''
 url_slides: ''
 url_source: ''
-url_video: 'https://www.youtube.com/watch?v=UHUmq-cOMh4'
+url_video: 'https://youtu.be/A9gJZWZO7Og'
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
