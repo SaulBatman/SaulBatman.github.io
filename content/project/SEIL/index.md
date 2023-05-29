@@ -33,6 +33,8 @@ url_video: 'https://youtu.be/A9gJZWZO7Og'
 #   Otherwise, set `slides = ""`.
 # slides: example
 ---
+<meta http-equiv = "refresh" content = " 0.01 ; url = https://saulbatman.github.io/SEIL_site/"/>
+
 # Authors
 Mingxi Jia, Dian Wang, Guanang Su, David Klee, Xupeng Zhu, Robin Walters, Robert Platt
 

@@ -81,7 +81,7 @@ projects:
 #   Otherwise, set `slides: ""`.
 # slides: example
 ---
-<meta http-equiv = "refresh" content = " 0.01 ; url = https://saulbatman.github.io/project/seil/"/>
+<meta http-equiv = "refresh" content = " 0.01 ; url = https://saulbatman.github.io/SEIL_site/"/>
 <!-- {{% callout note %}}
 Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software.
 {{% /callout %}}
