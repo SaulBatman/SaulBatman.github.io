@@ -18,13 +18,15 @@ bio: My name is Mingxi Jia. I am a M.S. in Robotics student at Northeastern Univ
 
 # Interests to show in About widget
 interests:
-  - Robotics
-  - Computer vision
-  - Deep learning
+  - Efficient robot learning
+  - Robotic manipulation
 
 # Education to show in About widget
 education:
   courses:
+    - course: Ph.D. in Computer science
+      institution: Brown University, Providence, US
+      year: 2023-Now
     - course: MS in Robotics, Computer science
       institution: Northeastern University, Boston, US
       year: 2021-2023
@@ -67,7 +69,7 @@ email: ''
 highlight_name: true
 ---
 ## Who am I
-My name is Mingxi Jia, a M.S. student in CS Robotics at Northeastern University, Boston. I am now a research assistant in the [Helping Hands Lab](https://www2.ccs.neu.edu/research/helpinghands/), advised by Prof. Robert Platt. Before Northeastern, I am fortune to work with Prof. Amy Zhang, Prof. Haipeng Guo at BNU-HKBU UIC and Prof. Qing Guo at BUCT. **I will be joining [Humans To Robots Laboratory](https://h2r.cs.brown.edu/), advised by Prof. Stefanie Tellex in Fall, 2023!**
+My name is Mingxi Jia, a Ph.D. student in [Humans To Robots (H2R) Laboratory](https://h2r.cs.brown.edu/) at Brown, advised by Prof. Stefanie Tellex. Before joining the H2R lab, I was fortunate to work with Prof. Robert Platt, Prof. Robin Walters at Northeastern University, Prof. Amy Zhang, Prof. Haipeng Guo at BNU-HKBU UIC, and Prof. Qing Guo at BUCT. 
 
 <!-- I was a research assistant at BNU-HKBU United International College, working on learning-based object 3D reconstruction, visual-aided robot arm, etc. -->
 <!-- ## Why I love robotics?
