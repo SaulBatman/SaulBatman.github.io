@@ -6,7 +6,7 @@ title: Mingxi Jia
 superuser: true
 
 # Role/position/tagline
-role: Master's student in Robotics
+role: Ph.D. student in CS
 
 # Organizations/Affiliations to show in About widget
 organizations:
