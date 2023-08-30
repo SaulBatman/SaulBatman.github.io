@@ -10,11 +10,11 @@ role: Ph.D. student in CS
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Helping hands lab, Northeastern University
-    url: https://www2.ccs.neu.edu/research/helpinghands/people/
+  - name: Humans To Robots lab, Brown University
+    url: https://h2r.cs.brown.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My name is Mingxi Jia. I am a M.S. in Robotics student at Northeastern University, Boston.
+bio: My name is Mingxi Jia. I am a Ph.D. student in CS at Brown University.
 
 # Interests to show in About widget
 interests:
