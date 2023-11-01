@@ -24,10 +24,10 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: Ph.D. in Computer science
+    - course: Ph.D. in Computer Science
       institution: Brown University, Providence, US
       year: 2023-Now
-    - course: MS in Robotics, Computer science
+    - course: MS in Robotics, Computer Science
       institution: Northeastern University, Boston, US
       year: 2021-2023
     - course: BSc in Mechanical Engineering
